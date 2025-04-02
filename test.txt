@@ -1,0 +1,10 @@
+#This is a test file. # as the first character voids a line. This should include a complete list of command types
+look
+look place
+# emotes
+pose
+I do a pose
+pose strikes a pose.
+say
+say A great idea!
+fakecommand Do the things!
